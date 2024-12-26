@@ -638,6 +638,10 @@ video {
   margin-bottom: 80px;
 }
 
+.mt-\[80px\] {
+  margin-top: 80px;
+}
+
 .flex {
   display: flex;
 }
@@ -738,6 +742,14 @@ video {
   width: 8px;
 }
 
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -792,6 +804,10 @@ video {
 
 .gap-\[5px\] {
   gap: 5px;
+}
+
+.gap-\[50px\] {
+  gap: 50px;
 }
 
 .rounded-\[\] {
@@ -1005,6 +1021,14 @@ video {
 
   .lg\:w-\[300px\] {
     width: 300px;
+  }
+
+  .lg\:w-\[50\%\] {
+    width: 50%;
+  }
+
+  .lg\:w-\[48\%\] {
+    width: 48%;
   }
 
   .lg\:flex-row {
