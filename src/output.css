@@ -630,6 +630,14 @@ video {
   margin-top: 50px;
 }
 
+.mt-\[8px\] {
+  margin-top: 8px;
+}
+
+.mb-\[80px\] {
+  margin-bottom: 80px;
+}
+
 .flex {
   display: flex;
 }
@@ -672,6 +680,10 @@ video {
 
 .h-\[200px\] {
   height: 200px;
+}
+
+.h-\[8px\] {
+  height: 8px;
 }
 
 .w-\[\] {
@@ -720,6 +732,10 @@ video {
 
 .w-\[99\] {
   width: 99;
+}
+
+.w-\[8px\] {
+  width: 8px;
 }
 
 .flex-row {
@@ -772,6 +788,10 @@ video {
 
 .gap-\[30px\] {
   gap: 30px;
+}
+
+.gap-\[5px\] {
+  gap: 5px;
 }
 
 .rounded-\[\] {
