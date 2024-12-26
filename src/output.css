@@ -1018,6 +1018,10 @@ video {
     margin-top: 170px;
   }
 
+  .lg\:mt-\[0px\] {
+    margin-top: 0px;
+  }
+
   .lg\:block {
     display: block;
   }
