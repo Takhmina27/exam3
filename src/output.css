@@ -650,6 +650,10 @@ video {
   margin-bottom: 30px;
 }
 
+.mt-\[60px\] {
+  margin-top: 60px;
+}
+
 .flex {
   display: flex;
 }
@@ -1008,6 +1012,10 @@ video {
 
   .lg\:mt-\[90px\] {
     margin-top: 90px;
+  }
+
+  .lg\:mt-\[170px\] {
+    margin-top: 170px;
   }
 
   .lg\:block {
