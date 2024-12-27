@@ -818,6 +818,18 @@ video {
   width: 133px;
 }
 
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[500px\] {
+  width: 500px;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -1113,6 +1125,14 @@ video {
 
   .lg\:mt-\[0px\] {
     margin-top: 0px;
+  }
+
+  .lg\:mt-\[\] {
+    margin-top: ;
+  }
+
+  .lg\:mt-\[40px\] {
+    margin-top: 40px;
   }
 
   .lg\:block {
